@@ -14,7 +14,7 @@ The models are trained and evaluated using the Iris dataset from Scikit-learn. T
 
 ## Aim
 
-To implement and compare Decision Tree and Naïve Bayes classifiers using Python and evaluate their classification accuracy.
+To implement and compare Decision Tree and Naïve Bayes classifiers using Python and evaluate their classification accuracy
 
 ---
 
